@@ -76,6 +76,29 @@
 // console.log(resultEven + " juft sonlar yig'indisi");
 // console.log(resultOdd + " toq sonlar yig'indisi");
 
+// 8 - misol
+
+// let num1 = prompt("Son kiriting");
+// let method = prompt("Amalni kiriting");
+// let num2 = prompt("Son kiriting");
+
+// switch (method) {
+// 	case "+":
+// 		alert(+num1 + +num2);
+// 		break;
+// 	case "-":
+// 		alert(+num1 - +num2);
+// 		break;
+// 	case "*":
+// 		alert(+num1 * +num2);
+// 		break;
+// 	case "/":
+// 		alert(+num1 / +num2);
+// 		break;
+// 	default:
+// 		break;
+// }
+
 // 9-misol
 
 // let arr = [1, 2, 3, 4, 0, -5, -6, -7, -8];
