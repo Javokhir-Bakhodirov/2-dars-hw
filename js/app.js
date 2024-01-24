@@ -1,16 +1,16 @@
 // 1-misol
 
-// let num1 = prompt("Birinchi sonni kiriting");
-// let num2 = prompt("Ikkinchi sonni kiriting");
-// let num3 = prompt("Uchinchi sonni kiriting");
+let num1 = prompt("Birinchi sonni kiriting");
+let num2 = prompt("Ikkinchi sonni kiriting");
+let num3 = prompt("Uchinchi sonni kiriting");
 
-// if ((num1 > num2 && num1 < num3) || (num1 < num2 && num1 > num3)) {
-// 	alert(num1 + " num1");
-// } else if ((num2 > num1 && num2 < num3) || (num2 < num1 && num2 > num3)) {
-// 	alert(num2 + " num2");
-// } else {
-// 	alert(num3 + " num3");
-// }
+if ((num1 > num2 && num1 < num3) || (num1 < num2 && num1 > num3)) {
+	alert(num1 + " num1");
+} else if ((num2 > num1 && num2 < num3) || (num2 < num1 && num2 > num3)) {
+	alert(num2 + " num2");
+} else {
+	alert(num3 + " num3");
+}
 
 // 4-misol
 
@@ -45,8 +45,8 @@
 // let arr = ["alo", "1", "ha", "3", "true", "null", "salom", "NaN"];
 
 // for (let i = 0; i < arr.length; i++) {
-// 	if (arr[i] == "salom") {
-// 		alert("salom so'zi " + (i + 1) + " taqam ostida turipti");
+// 	if (arr[i] == "true") {
+// 		console.log(arr[i] + " so'zi " + (i + 1) + " - turipti");
 // 	}
 // }
 
